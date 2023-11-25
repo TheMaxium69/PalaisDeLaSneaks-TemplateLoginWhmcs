@@ -20,7 +20,7 @@
         <div class="login-container">
             <h1 class="logo">
                 <a href="login.php">
-                    <img src="images/logoDetoure.png" alt="WHMCS" />
+                    <img src="../../assets/logoDetoure.png" alt="WHMCS" />
                 </a>
             </h1>
             <div class="login-body">
